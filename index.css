@@ -1,0 +1,8 @@
+
+
+.menu{display: flex;
+    justify-content: space-between;
+    align-items: center;}
+
+.links a{margin-left: 20px;
+    text-decoration: none;}
